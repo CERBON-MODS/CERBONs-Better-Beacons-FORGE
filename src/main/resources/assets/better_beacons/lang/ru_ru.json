@@ -1,0 +1,29 @@
+{
+  "block.minecraft.beacon.better_beacons.beacon_range.label": "Радиус маяка",
+  "block.minecraft.beacon.better_beacons.tertiary_power.label": "Т.Э",
+  "block.minecraft.beacon.better_beacons.current_payment.label": "Т.П",
+  "block.minecraft.beacon.better_beacons.payment_item.label": "Плата",
+
+  "block.minecraft.beacon.better_beacons.confirm_button.tooltip": "Применить выбранные эффекты",
+  "block.minecraft.beacon.better_beacons.cancel_button_remove_effects.tooltip": "Убрать активные эффекты",
+  "block.minecraft.beacon.better_beacons.cancel_button_close_container.tooltip": "Закрыть",
+
+  "effect.better_beacons.phantom_bane": "Бич фантомов",
+  "effect.better_beacons.patrol_nullifier": "Нейтрализатор патрулей",
+  "effect.better_beacons.long_reach": "Длинная досягаемость",
+
+  "beacon.isLocked": "%s заперт! Требуется один из следующих ключей: %s",
+  "beacon.unlocked": "Вы успешно открыли %s!",
+
+  "advancements.better_beacons.redirect_beacon.title": "Игра огней",
+  "advancements.better_beacons.redirect_beacon.description": "Перенаправьте луч маяка с помошью друзы",
+  "advancements.better_beacons.invisible_beam.title": "Невиданный свет",
+  "advancements.better_beacons.invisible_beam.description": "Сделайте луч маяка невидимым с помощью тонированного стекла",
+  "advancements.better_beacons.increase_effects_strength.title": "Луч'ше!",
+  "advancements.better_beacons.increase_effects_strength.description": "Усильте эффекты маяка с помошью ценных блоков",
+  "advancements.better_beacons.true_full_power.title": "Ультимативный маяк",
+  "advancements.better_beacons.true_full_power.description": "Создайте маяк полной мощности, с максимальным радиусом и силой эффектов"
+
+
+
+}
